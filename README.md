@@ -1,7 +1,11 @@
 # TiltTray Sorters
 Wikipedia: A tilt-tray sorter is a high-speed, continuous-loop sortation conveyor that uses a technique of tilting a tray at a chute to slide the object into the chute. It is used to expedite the process of Order fulfillment to consolidate line items of an order, and to process returned products for immediate updating of inventory in real time.
 
-3 images
+![Convetional TiltTray](https://github.com/RandomCoder987/TiltTray/blob/main/Conventional%20TiltTray.png)
+
+![Tray1](https://github.com/RandomCoder987/TiltTray/blob/main/TiltTray1.png)
+
+![Tray2](https://github.com/RandomCoder987/TiltTray/blob/main/TiltTray2.png)
 
 If a sorter has 2,000 chutes (destinations), the product for 2,000 orders can be picked together, in a single pass through the pick zones to be inducted on the sorter. The mixed picked product is scanned on the trays and sorted by the sorter to the individual orders. This process significantly reduces the amount of walking that pickers need to do at the facility. Without a sorter, if pickers were picking single orders at a time, pickers could potentially walk 2,000 times more than pickers with a sorter.
 
@@ -11,7 +15,7 @@ The 10,000 items per hour capacity of a sorter may not be enough to process all 
 
 Before adding a second sorter, for a limited increase in the capacity of a single sorter, beyond the 10,000 sorts per hour mechanical capacity, it is better to add induction zones.
 
-another image
+![TiltTray with 2 induction zones](https://github.com/RandomCoder987/TiltTray/blob/main/TiltTray%20with%20two%20induction%20zones.png)
 
 In the above drawing, trays that drop the product in the half of the sorter after their induction zone can be re-used by the other inductor; effectively, sorting more than the 10,000 items per hour that are achieved with only one induction zone.
 
